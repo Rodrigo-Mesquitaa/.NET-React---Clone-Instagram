@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@nestjs/mapped-types": "^2.0.5",
+    "clsx": "^2.1.1",
+    "react-native": "^0.74.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3"
+  }
+}
